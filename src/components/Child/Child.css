@@ -1,0 +1,20 @@
+.child-container {
+	cursor:pointer;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	border: 5px solid;
+	border-radius: 10px;
+}
+
+.child-img {
+	max-width: 5rem;
+	max-height: 5rem;
+	transition: max-width 200ms, max-height 200ms;
+}
+
+/* .child-container:hover .child-img {
+	max-width: 6rem;
+	max-height: 6rem;
+} */
