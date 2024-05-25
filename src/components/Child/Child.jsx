@@ -14,7 +14,7 @@ const Child = ({ isSelected, name, onClick }) => (
 				<div style={{ display: "flex", justifyContent: "center", alignItems: "center", flexDirection: "column" }}>
 					<div className="child-container" style={{ borderColor: isSelected ? "#C73659" : "#987070" }}>
 						<div style={{ width: "8rem", display: "flex", justifyContent: "center", alignItems: "center" }}>
-							<img className="child-img" style={{ maxWidth: isSelected ? "6rem" : "5rem", maxHeight: isSelected ? "6rem" : "5rem" }} src={`/${name}.jpg`} />
+							<img className="child-img" style={{ maxWidth: isSelected ? "6rem" : "5rem", maxHeight: isSelected ? "6rem" : "5rem" }} src={`./${name}.jpg`} />
 						</div>
 						<div style={{ padding: "1rem", width: "15rem" }}>
 							<div>
