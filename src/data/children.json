@@ -3,60 +3,60 @@
 		"singleParent": "no",
 		"schoolPerformance": "good",
 		"basicNeeds": "no",
-		"bullyingLikelihood": 28
+		"bullyingLikelihood": 59
 	},
 	"achilles": {
 		"singleParent": "yes",
 		"schoolPerformance": "good",
 		"basicNeeds": "yes",
-		"bullyingLikelihood": 12
+		"bullyingLikelihood": 14
 	},
 	"roberto": {
 		"singleParent": "no",
 		"schoolPerformance": "average",
 		"basicNeeds": "no",
-		"bullyingLikelihood": 54
+		"bullyingLikelihood": 93
 	},
 	"yovan": {
 		"singleParent": "yes",
 		"schoolPerformance": "average",
 		"basicNeeds": "yes",
-		"bullyingLikelihood": 78
+		"bullyingLikelihood": 93
 	},
 	"john": {
 		"singleParent": "no",
 		"schoolPerformance": "good",
 		"basicNeeds": "yes",
-		"bullyingLikelihood": 4
+		"bullyingLikelihood": 2
 	},
 	"michelle": {
 		"singleParent": "yes",
 		"schoolPerformance": "average",
 		"basicNeeds": "no",
-		"bullyingLikelihood": 54
+		"bullyingLikelihood": 93
 	},
 	"lee": {
 		"singleParent": "no",
 		"schoolPerformance": "good",
 		"basicNeeds": "yes",
-		"bullyingLikelihood": 4
+		"bullyingLikelihood": 2
 	},
 	"christine": {
 		"singleParent": "no",
 		"schoolPerformance": "average",
 		"basicNeeds": "no",
-		"bullyingLikelihood": 12
+		"bullyingLikelihood": 14
 	},
 	"enarah": {
 		"singleParent": "no",
 		"schoolPerformance": "average",
 		"basicNeeds": "no",
-		"bullyingLikelihood": 28
+		"bullyingLikelihood": 59
 	},
 	"ioli": {
 		"singleParent": "no",
 		"schoolPerformance": "good",
 		"basicNeeds": "yes",
-		"bullyingLikelihood": 1
+		"bullyingLikelihood": 0
 	}
 }
